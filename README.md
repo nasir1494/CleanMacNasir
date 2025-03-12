@@ -14,10 +14,11 @@
 ## 使用方式
 
 1. **下載與安裝**  
-   使用 git 將專案複製至本地端：
+   使用 git 將專案複製至本機：
    ```bash
    git clone https://github.com/nasir1494/CleanMacNasir.git
-   **前往資料夾**
+
+**前往資料夾**
    ```bash
    cd CleanMacNasir
 2. **提權**
