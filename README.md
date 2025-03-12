@@ -18,12 +18,15 @@
    ```bash
    git clone https://github.com/nasir1494/CleanMacNasir.git
    ```
-   
+   ```
    cd CleanMacNasir
+   ```
 2. **提權**
-   ```bash
+   ```
    chmod +x CleanMacNasir.sh
+   ```
 3. **使用Sudo進行運行**
-   ```bash
+   ```
    sudo ./CleanMacNasir.sh
+   ```
 
